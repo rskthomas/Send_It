@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471341501582",
+    "project_id": "send-it-2022",
+    "storage_bucket": "send-it-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471341501582:android:abc6716b5f047bc036cddf",
+        "android_client_info": {
+          "package_name": "com.buggysoft.sendit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471341501582-ithh7dm19kd2cs81fvbcg161op15nj6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buggysoft.sendit",
+            "certificate_hash": "48f67bc227efd56752d44acf0e07402d0a76efc9"
+          }
+        },
+        {
+          "client_id": "471341501582-hb0pi90s5a9qmrt8nrct48piqke0ssh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGasP3WcrQbQLTqsyt-PpR8ajBLuufPF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471341501582-hb0pi90s5a9qmrt8nrct48piqke0ssh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
