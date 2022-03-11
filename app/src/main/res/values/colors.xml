@@ -10,4 +10,9 @@
 
   <color name="primaryTextColor">#212121</color>
   <color name="secondaryTextColor">#212121</color>
+
+  <color name="colorBackground">#e5ffff</color>
+  <color name="colorPaint">#82ada9</color>
+  <color name="black">#00000F</color>
+
 </resources>

@@ -30,7 +30,10 @@ class DrawingFragment : Fragment() {
             param2 = it.getString(ARG_PARAM2)
         }
 
+        //TODO implemt logic that redirects user to PairingFragment if user is not paired correctly
         this.findNavController().navigate(R.id.action_drawingFragment_to_pairingFragment)
+
+
     }
 
     override fun onCreateView(
@@ -38,6 +41,10 @@ class DrawingFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
+        /*val myCanvasView = DrawingCanvas(requireContext())
+        myCanvasView.contentDescription = getString(R.string.canvasContentDescription)
+        return myCanvasView*/
+
         return inflater.inflate(R.layout.fragment_drawing, container, false)
     }
 
